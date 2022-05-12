@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niroshan</h1>
-<h3 align="center">A passionate solution Architech from Singapore</h3>
+<h3 align="center">A passionate Lead Software Dev from Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niroshn&label=Profile%20views&color=0e75b6&style=flat" alt="niroshn" /> </p>
 
