@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, AWS, Blockchain, Cryptography**
 
-- 📫 How to reach me **niroshan@axcer.io**
+- 📫 How to reach me **niroshanranapathi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niroshn&show_icons=true&locale=en&layout=compact" alt="niroshn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niroshn&show_icons=true&locale=en" alt="niroshn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niroshn&" alt="niroshn" /></p>
